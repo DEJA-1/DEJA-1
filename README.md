@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android apps**
 
-- 📫 How to reach me **allowestq@gmail.com**
+- 📫 How to reach me **kamilmajewskicode@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
