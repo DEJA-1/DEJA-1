@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **eStudent**
 
-- 🌱 I’m currently learning **Android apps**
+- 🌱 I’m currently learning **Flow, testing**
 
 - 📫 How to reach me **allowestq@gmail.com**
 
