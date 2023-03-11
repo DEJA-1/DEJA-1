@@ -3,7 +3,7 @@
 <h3 align="center">Future Android Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4672791/gym.gif">
 
-- 🔭 I’m currently working on **Flight**
+- 🔭 I’m currently working on **eStudent**
 
 - 🌱 I’m currently learning **Android apps**
 
