@@ -1,9 +1,10 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQEyE9RedcLu-A/profile-displaybackgroundimage-shrink_350_1400/0/1684517714261?e=1691020800&v=beta&t=cLd6qL2KVnjEry1KkmQBCkXj7PMdDMzq1NY0Hb2pj28)
+
 <h1 align="center">Hi 👋, I'm DEJA</h1>
+<p>I am passionate about Mobile App Development. I really love the idea of simplifying everyday life with the use of the power of technology. I've projected and build many Android Applications, and I'm planning to deploy one in the nearest future - DejaCode. I encourage you to take a look at my projects in the repository section. Have a great day! :)</p>
 <h3 align="center">Android Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4672791/gym.gif">
 
-- 🔭 I’m currently working on **DEJAcode**
+- 🔭 I’m currently working on **DejaCode**
 
 - 📫 How to reach me **allowestq@gmail.com**
 
