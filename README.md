@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm DEJA</h1>
-<p>I am passionate about Mobile App Development. I really love the idea of simplifying everyday life with the use of the power of technology. I've projected and build many Android Applications, and I'm planning to deploy one in the nearest future - DejaCode. I encourage you to take a look at my projects in the repository section. Have a great day! :)</p>
+<p>
+  
+  I am passionate about Mobile App Development. I really love the idea of simplifying everyday life with the use of the power of technology. I've projected and build many Android Applications, and I'm planning to deploy one in the nearest future - DejaCode. I encourage you to take a look at my projects in the repository section. Have a great day! :)
+  
+</p>
 <h2 align="center">Technology stack: </h3>
 
 <h3 align="center">
